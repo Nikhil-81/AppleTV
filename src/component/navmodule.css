@@ -1,0 +1,20 @@
+.navCont{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.applieLogo{
+    width:55%;
+}
+.SearchSecNav{
+display: flex;
+    align-items: baseline;
+    gap: 18px;
+    padding-right: 130px;
+
+}
+.SearchSecNav>.mb-3{
+    width: 74%;
+}
+

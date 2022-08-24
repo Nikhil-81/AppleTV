@@ -1,0 +1,36 @@
+.card>.card-img-overlay
+{
+    top:65%;
+}
+.card>img{
+    border: none;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    width:100.5%;
+    overflow-x: hidden;
+}
+.card-img-overlay img {
+    width:5%
+}
+
+.AppleDevice,.connectingDevice{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-around;
+
+}
+.Accordingcomp{
+    width: 80%;
+    margin: auto;
+}
+
+.AppleDevice> div>img,.connectingDevice>div>img{
+width: 50%;
+}
+
+.Black_screen>.card>.card-img-overlay{
+    top:20%
+}
+
