@@ -1,0 +1,19 @@
+.Style_Hero_OverLay{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+}
+.Style_button_stack{
+    padding:0 100px;
+    gap:20px
+}
+
+.Style_button_stack button{
+    width: 450px;
+    padding: 10px 0;
+    font-size: 22px;
+}
+.Style_hero_dec{
+    text-align: start;
+    font-size: 22px;
+}

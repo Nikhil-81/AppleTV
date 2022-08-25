@@ -1,5 +1,7 @@
 import {useParams} from "react-router-dom"
+import "./show/show.css"
 import { useEffect,useState } from "react"
+import Hero_back from "./show/hero"
 function getdata(id){
     return fetch(`http://localhost:8000/data/${id}`).then(res=>(res.json())).catch(err=>console.Console.log(err))
 }
@@ -14,7 +16,7 @@ export default function Show(){
     console.log(data)
     return(
         <div>
-            <h1>Show</h1>
+            <Hero_back data={data}/>
         </div>
     )
 }

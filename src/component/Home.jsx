@@ -13,7 +13,7 @@ export default function Home(){
   }
 
     return(<div>
-        <Nav/>
+        {/* <Nav/> */}
         <div className="contenor">
         <Card className="bg-dark text-white">
       <Card.Img src="https://is2-ssl.mzstatic.com/image/thumb/Features122/v4/09/2e/b4/092eb448-fc53-1cac-282f-fc73a837a3cc/4763b10e-9528-4309-91a2-6f079ff08e4d.png/1679x945sr.jpg" alt="Card image" />

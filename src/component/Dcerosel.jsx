@@ -12,17 +12,32 @@ export default function Cero({hendleclick}) {
 const [data,setdata]=useState([])
     useEffect(()=>{
         getdata().then(res=>(setdata(res))).catch(err=>(console.log(err)))
-        console.log(data)
+        console.log(data.length)
     },[])
-    var settings = {
-      dots: false,
-      infinite: true,
-      speed: 500,
-      arrows:true,
-    //   variableWidth:true,
-      slidesToShow: 5,
-      slidesToScroll: 3
-    };
+
+    if(data.length<=5){
+      var settings = {
+        dots: false,
+        infinite: true,
+        speed: 500,
+        arrows:true,
+      //   variableWidth:true,
+        slidesToShow: data.length,
+        slidesToScroll: 3
+      };
+    }
+    else if (data.length>5){
+      var settings = {
+        dots: false,
+        infinite: true,
+        speed: 500,
+        arrows:true,
+      //   variableWidth:true,
+        slidesToShow: 5,
+        slidesToScroll: 3
+      };
+    }
+ 
 
 
     return (
