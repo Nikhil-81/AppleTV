@@ -3,8 +3,15 @@ import BlackScreen from "./blackScreen"
 import {Link} from "react-router-dom"
 import {Card,Button} from "react-bootstrap"
 import Accor from "./Q&A"
+// import Test from "./test"
 import './Home.css'
+import Cero from "./Dcerosel"
 export default function Home(){
+
+  function hendleclick(id){
+    console.log(id)
+  }
+
     return(<div>
         <Nav/>
         <div className="contenor">
@@ -19,12 +26,16 @@ export default function Home(){
         <Card.Text><p>7 days free, then ₹ 99.00/month.</p></Card.Text>
         <Card.Text><p>
             <span>Or 3 months free when you buy an eligible Apple device.</span>
-            <Link to="home/T&C">Terms Apply</Link>
+            <a href="#">Terms Apply</a>
             <span>Some titles coming later to Apple TV+.</span>
             </p></Card.Text>
 
       </Card.ImgOverlay>
     </Card>
+    <div className="Dcerosel">
+      <h2>Most Populer Now</h2>
+    <Cero />
+    </div>
     <BlackScreen/>
     <Accor/>
         </div>
