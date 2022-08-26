@@ -3,12 +3,18 @@
     {
         "id":1,
         "thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/zu0ejCkjpY-dyDeyAw1elQ/1679x945sr.webp",
+      "decreption":"Nominated for 14 Emmy® Awards, including Outstanding Drama Series. Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. They begin a journey to discover the truth about their jobs.",
         "name":"BAD SISTERS",
         "heroimage":"https://is2-ssl.mzstatic.com/image/thumb/zu0ejCkjpY-dyDeyAw1elQ/1679x945sr.webp",
-        "t_image":[  {"t_img":"https://is2-ssl.mzstatic.com/image/thumb/Z2RayRsMnZFLyWKuf1UOQw/1679x945.webp",
-        "t_name":"Monster"}
+        "t_image":[  {"img":"https://is2-ssl.mzstatic.com/image/thumb/Z2RayRsMnZFLyWKuf1UOQw/1679x945.webp",
+        "name":"Monster"},
+        {"img":"https://is2-ssl.mzstatic.com/image/thumb/Z2RayRsMnZFLyWKuf1UOQw/1679x945.webp",
+        "name":"Monster"}
         ],
-        "b_image":[  {"b_img":"https://is1-ssl.mzstatic.com/image/thumb/p6AzZ8hFcwYKA8Ca7rUyqw/1000x563.webp","b_name":"Inside Look"}
+        "b_image":[  {"img":"https://is1-ssl.mzstatic.com/image/thumb/p6AzZ8hFcwYKA8Ca7rUyqw/1000x563.webp","name":"Inside Look"},
+        {"img":"https://is1-ssl.mzstatic.com/image/thumb/p6AzZ8hFcwYKA8Ca7rUyqw/1000x563.webp","name":"Inside Look"}
+
+
         ],
         "gener":"Drama",
         "release":"2022",
@@ -166,10 +172,10 @@
         "decreption":"Nominated for 14 Emmy® Awards, including Outstanding Drama Series. Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. They begin a journey to discover the truth about their jobs.",
         "name":"severance",
         "heroimage":"https://is5-ssl.mzstatic.com/image/thumb/W9EUxTdByWYLnSERLSyfxw/1679x945sr.webp",
-        "t_image":[  {"t_img":"https://is2-ssl.mzstatic.com/image/thumb/AMFgiomeYDJUyivhEHpnGQ/1000x563.webp",
-        "t_name":"DayDream"}
+        "t_image":[  {"img":"https://is2-ssl.mzstatic.com/image/thumb/AMFgiomeYDJUyivhEHpnGQ/1000x563.webp",
+        "name":"DayDream"}
         ],
-        "b_image":[  {"b_img":"https://is1-ssl.mzstatic.com/image/thumb/V6h-MebRLXF03wIqkDYbyw/1000x563.webp","b_name":"Welcome to Lumon"}
+        "b_image":[  {"img":"https://is1-ssl.mzstatic.com/image/thumb/V6h-MebRLXF03wIqkDYbyw/1000x563.webp","name":"Welcome to Lumon"}
         ],
         "gener":"Thrill",
         "release":"2022",

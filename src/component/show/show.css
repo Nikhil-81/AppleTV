@@ -17,3 +17,74 @@
     text-align: start;
     font-size: 22px;
 }
+
+.Dcerosel{
+    width:95%;
+    margin:auto;
+}
+.slick-slider{
+    padding:0 67px;
+}
+/* .slick-slider>Button{
+    padding: 16px;
+}  */
+/* 
+.slick-track>.slick-slide{
+    outline: none;
+    width: 400px !important;
+    margin-left: 22px;
+} */
+ .slick-next:before, [dir=rtl] .slick-prev:before {
+
+    padding-left: 10px;
+    margin-left:-130px
+
+} 
+
+.slick-next:before, .slick-prev:before {
+    font-size: 44px;
+    color: #141619;
+}
+
+.Less_5_cero>img{
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-Top-right-radius: 15px;
+    border-Top-left-radius: 15px;
+}
+
+.Style_show_Header{
+    text-align: start;
+    margin-left: 115px;
+}
+
+.o_image>img{
+    border-radius: 50%;
+}
+.Less_5_ocero{
+    width: 100% !important ;
+}
+.Style_Wher_to_Watch>.card{
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-Top-right-radius: 15px;
+    border-Top-left-radius: 15px; 
+    background-color: #F0F0F3;  
+    margin-left: 22px;
+}
+.Style_Wher_to_Watch>.card>img{
+    border-Top-right-radius: 15px;
+    border-Top-left-radius: 15px;  
+    width: 100%;
+}
+
+.style_about{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    
+    text-align: start;
+    width: 90%;
+    padding: 10px 10px;
+    margin: auto;
+
+}
