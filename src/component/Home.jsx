@@ -6,6 +6,11 @@ import Accor from "./Q&A"
 // import Test from "./test"
 import './Home.css'
 import Cero from "./Dcerosel"
+import Fetured_movie from "./fetured"
+import Kids_movie from "./Kids"
+import Fun_movie from "./fun"
+import Nofiction_Movie from "./nofiction"
+import Single_page_pos from "./Single_page"
 export default function Home(){
 
   function hendleclick(id){
@@ -33,8 +38,25 @@ export default function Home(){
       </Card.ImgOverlay>
     </Card>
     <div className="Dcerosel">
-      <h2>Most Populer Now</h2>
+      <h4 className="CeroTags">Most Populer Now</h4>
     <Cero />
+    <hr/>
+    <h4 className="CeroTags">From Page to screen</h4>
+    <Fetured_movie/>
+    
+    <hr/>
+    <h4 className="CeroTags">Nonfiction Films & Series</h4>
+    <Nofiction_Movie/>
+    <hr/>
+    <Single_page_pos/>
+    <hr/>
+    <h4 className="CeroTags">Kids & Family</h4>
+    <p className="CeroTags">Discover shows and movies filled with wonder and imagination.</p>
+    <Kids_movie/>
+    <hr/>
+    <h4 className="CeroTags">Fun for All</h4>
+    <Fun_movie/>
+    <hr/>
     </div>
     <BlackScreen/>
     <Accor/>

@@ -20,7 +20,7 @@ const [data,setdata]=useState([])
         dots: false,
         infinite: true,
         speed: 500,
-        arrows:true,
+        arrows:false,
       //   variableWidth:true,
         slidesToShow: data.length,
         slidesToScroll: 3
@@ -31,7 +31,7 @@ const [data,setdata]=useState([])
         dots: false,
         infinite: true,
         speed: 500,
-        arrows:true,
+        arrows:false,
       //   variableWidth:true,
         slidesToShow: 5,
         slidesToScroll: 3
