@@ -56,7 +56,15 @@
         "time":"55 min",
         "data":"26 Aug 2022",
         "title":"Chopped Liver"
-    }
+    },     {   "id":"4",
+    "s_thumbnail":"https://is4-ssl.mzstatic.com/image/thumb/JJNI0-EHHFYsI4Hr2PnyTg/1478x832.webp",
+    "name":"Bad Sister",
+    "season":1,
+    "epi_no":"4",
+    "time":"55 min",
+    "data":"26 Aug 2022",
+    "title":"Chopped Liver"
+}
 ]
 }
         ],
@@ -174,10 +182,10 @@
     },
     {
         "id":2,
-        "thumbnail":"https://is5-ssl.mzstatic.com/image/thumb/W9EUxTdByWYLnSERLSyfxw/1679x945sr.webp",
+        "thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/Features112/v4/a1/fb/e7/a1fbe76c-a6b8-248b-e19a-63bc94588caf/0ab1a582-f500-4585-a68e-5c5c7c6e1b7c.png/1679x945sr.jpg",
         "decreption":"Nominated for 14 Emmy® Awards, including Outstanding Drama Series. Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. They begin a journey to discover the truth about their jobs.",
         "name":"severance",
-        "heroimage":"https://is5-ssl.mzstatic.com/image/thumb/W9EUxTdByWYLnSERLSyfxw/1679x945sr.webp",
+        "heroimage":"https://is2-ssl.mzstatic.com/image/thumb/Features112/v4/a1/fb/e7/a1fbe76c-a6b8-248b-e19a-63bc94588caf/0ab1a582-f500-4585-a68e-5c5c7c6e1b7c.png/1679x945sr.jpg",
         "t_image":[  {"img":"https://is2-ssl.mzstatic.com/image/thumb/AMFgiomeYDJUyivhEHpnGQ/1000x563.webp",
         "name":"DayDream"}
         ],
@@ -197,7 +205,7 @@
             "elements": [
 
                 {   "id":"1",
-                "s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/Z2RayRsMnZFLyWKuf1UOQw/1679x945.webp",
+                "s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/MLEnUjQIU0JZyzsk-Unm0A/1478x832.webp",
                 "name":"severance",
                 "season":1,
                 "epi_no":"1",
@@ -207,7 +215,7 @@
                 "Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions."
             },
             {   "id":"2",
-            "s_thumbnail":"https://is1-ssl.mzstatic.com/image/thumb/yivkVIiUGX_rIdnoXOiiwg/1679x945.webp",
+            "s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/FNgZ32eROSB3rV8jJe6vKQ/1478x832.webp",
             "name":"severance",
             "season":1,
             "epi_no":"2",
@@ -216,7 +224,7 @@
             "title":"Explode A Man"
         },
         {   "id":"3",
-        "s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/p_mAJQJV1BrWr6ksJ4d4kg/1679x945.webp",
+        "s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/FNgZ32eROSB3rV8jJe6vKQ/1478x832.webp",
         "name":"severance",
         "season":1,
         "epi_no":"3",
@@ -224,9 +232,247 @@
         "data":"26 Aug 2022",
         "title":"Chopped Liver"
     }
+    ,
+    {   "id":"4",
+    "s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/pSU3X-9rEvrBw6yxOv-A_g/1478x832.webp",
+    "name":"severance",
+    "season":1,
+    "epi_no":"4",
+    "time":"55 min",
+    "data":"26 Aug 2022",
+    "title":"Chopped Liver"
+},
+{   "id":"5",
+"s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/O6uni5z7w8Q4FYixISz0tQ/1478x832.webp",
+"name":"severance",
+"season":1,
+"epi_no":"5",
+"time":"55 min",
+"data":"26 Aug 2022",
+"title":"Chopped Liver"
+},
+{   "id":"6",
+"s_thumbnail":"https://is1-ssl.mzstatic.com/image/thumb/o8bGSURob7b5GuD8xVMAXA/1478x832.webp",
+"name":"severance",
+"season":1,
+"epi_no":"6",
+"time":"55 min",
+"data":"26 Aug 2022",
+"title":"Chopped Liver"
+},
+{   "id":"7",
+"s_thumbnail":"https://is3-ssl.mzstatic.com/image/thumb/YuX84SwkbfvWj32F0hy3nQ/1478x832.webp",
+"name":"severance",
+"season":1,
+"epi_no":"7",
+"time":"55 min",
+"data":"26 Aug 2022",
+"title":"Chopped Liver"
+},
+{   "id":"8",
+"s_thumbnail":"https://is5-ssl.mzstatic.com/image/thumb/h8K0uc1ivCCpN4lytyNV4g/1478x832.webp",
+"name":"severance",
+"season":1,
+"epi_no":"8",
+"time":"55 min",
+"data":"26 Aug 2022",
+"title":"Chopped Liver"
+}
 ]
+}
+        ],
+        "c_and_c":[
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/427QNmMeNw7H9uOPe9IxnQ/492x492ve.webp",
+                "name":"Sharon Horgan",
+                "s_name":"Eva Garvey"
 
+            },
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/w0Ujbx9q3-7QPrIlXH8NDw/492x492ve.webp",
+                "name":"Anne-Marie Duff",
+                "s_name":"Grace Williams"
+                
+            },
+            {
+                "c_img":"https://is3-ssl.mzstatic.com/image/thumb/HvzfGe9ikTmzKuTro-lU-A/492x492bb.webp",
+                "name":"Claes Bang",
+                "s_name":"John Paul Willams"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/sKre4-Nh0Mgr8rpH4Di39w/492x492bb.webp",
+                "name":"Eva Birthistle",
+                "s_name":"Ursula Flynn"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/AJaUiLPYOsl2FsFtTx5cBw/492x492bb.webp",
+                "name":"Sarah Greene",
+                "s_name":"Bibi Garvey"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/-aSQlpjweESPMa_jLJrYEw/492x492ve.webp",
+                "name":"Eva Hewson",
+                "s_name":"Becka Garvey"
+                
+            },
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/eSPLz1PwdctvI5fEebdpLg/492x492bb.webp",
+                "name":"Brian Gleeson",
+                "s_name":"Thomas Claffin"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/2kp5hzX4uF-ZRpOlai3R2g/492x492bb.webp",
+                "name":"Daryl McCormack",
+                "s_name":"Matthuew Claffin"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/JQjesVs_ZFkBTNR92QGzXQ/492x492bb.webp",
+                "name":"Assaad Bouab",
+                "s_name":"Gabrial"
+                
+            },
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/427QNmMeNw7H9uOPe9IxnQ/492x492ve.webp",
+                "name":"Sharon Horgan",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/EzFCs-lIfy20uWV3h-pzbA/492x492bb.webp",
+                "name":"Dave Finkel",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/NC6Qaaf7ZNPGzKTzdVXB_g/492x492bb.webp",
+                "name":"Brett Baer",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/pkg4TZTWG2nW8kVoKBVNmQ/492x492ve.webp",
+                "name":"Faye Dorm",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/__MyzGyHKdFXRYVw_aBnWQ/492x492ve.webp",
+                "name":"Clelia Mountford",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/pkg4TZTWG2nW8kVoKBVNmQ/492x492ve.webp",
+                "name":"Dearbhla Walsh",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/AxVAIVNNs5Iz_UQPpMWpzg/492x492bb.webp",
+                "name":"Bert Hamelinck",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/pkg4TZTWG2nW8kVoKBVNmQ/492x492ve.webp",
+                "name":"Michael Sagol",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/0i0O4uW4IJruhpOZ00gpXw/492x492ve.webp",
+                "name":"Malin-Sarah Gozin",
+                "s_name":"Executive Producer"
+                
+            }
+        ]
+        
+    },
+    {
+        "id":3,
+        "thumbnail":"https://is5-ssl.mzstatic.com/image/thumb/7SeRlnCzKlgeqrg6-ixkig/738x416.webp",
+        "decreption":"Nominated for 14 Emmy® Awards, including Outstanding Drama Series. Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. They begin a journey to discover the truth about their jobs.",
+        "name":"severance",
+        "heroimage":"https://is5-ssl.mzstatic.com/image/thumb/7SeRlnCzKlgeqrg6-ixkig/738x416.webp",
+        "t_image":[  {"img":"https://is2-ssl.mzstatic.com/image/thumb/AMFgiomeYDJUyivhEHpnGQ/1000x563.webp",
+        "name":"DayDream"}
+        ],
+        "b_image":[  {"img":"https://is1-ssl.mzstatic.com/image/thumb/V6h-MebRLXF03wIqkDYbyw/1000x563.webp","name":"Welcome to Lumon"}
+        ],
+        "gener":"Thrill",
+        "release":"2022",
+        "rated":"A",
+        "region":"United Kingdom",
+        "o_audo":"English",
+        "audo":"English(AD,Dolby Atoms,AAC)",
+        "subtitle":"English",
+        "cc":"Closed caption refer to subtitles in available language with the  of relevent non dialogue information",
+        "ad":"Audio descriotion (AD) refer to a narration track describing what is happing on screen to context for those who are blind or have low vision",
+          "seasons":[
+        {
+            "elements": [
 
+                {   "id":"1",
+                "s_thumbnail":"https://is5-ssl.mzstatic.com/image/thumb/7SeRlnCzKlgeqrg6-ixkig/738x416.webp",
+                "name":"severance",
+                "season":1,
+                "epi_no":"1",
+                "time":"49 min",
+                "data":"19 Aug 2022",
+                "title":"The Prick",
+                "Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions."
+            },
+            {   "id":"2",
+            "s_thumbnail":"https://is4-ssl.mzstatic.com/image/thumb/S4eF69xSeArWZz2DZKaTOQ/738x416.webp",
+            "name":"severance",
+            "season":1,
+            "epi_no":"2",
+            "time":"53 min",
+            "data":"19 Aug 2022",
+            "title":"Explode A Man"
+        },
+        {   "id":"3",
+        "s_thumbnail":"https://is4-ssl.mzstatic.com/image/thumb/Ayre02kzYy-UP8Sefqbmdg/738x416.webp",
+        "name":"severance",
+        "season":1,
+        "epi_no":"3",
+        "time":"55 min",
+        "data":"26 Aug 2022",
+        "title":"Chopped Liver"
+    },
+    {   "id":"4",
+    "s_thumbnail":"https://is5-ssl.mzstatic.com/image/thumb/ewq0-5ZSairVdRtcg43s0w/738x416.webp",
+    "name":"severance",
+    "season":1,
+    "epi_no":"3",
+    "time":"55 min",
+    "data":"26 Aug 2022",
+    "title":"Chopped Liver"
+},
+{   "id":"5",
+"s_thumbnail":"https://is1-ssl.mzstatic.com/image/thumb/UbqKgHISX2yxGI_UfPieQg/738x416.webp",
+"name":"severance",
+"season":1,
+"epi_no":"3",
+"time":"55 min",
+"data":"26 Aug 2022",
+"title":"Chopped Liver"
+},
+{   "id":"6",
+"s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/WTDZpzkQlaatpb1X4w9jZg/738x416.webp",
+"name":"severance",
+"season":1,
+"epi_no":"3",
+"time":"55 min",
+"data":"26 Aug 2022",
+"title":"Chopped Liver"
+}
+]
 },
 {
     "elements": [
@@ -377,32 +623,32 @@
         
     },
     {
-      "id":3,
-      "thumbnail":"https://is5-ssl.mzstatic.com/image/thumb/W9EUxTdByWYLnSERLSyfxw/1679x945sr.webp",
-      "decreption":"Nominated for 14 Emmy® Awards, including Outstanding Drama Series. Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. They begin a journey to discover the truth about their jobs.",
-      "name":"severance",
-      "heroimage":"https://is5-ssl.mzstatic.com/image/thumb/W9EUxTdByWYLnSERLSyfxw/1679x945sr.webp",
-      "t_image":[  {"t_img":"https://is2-ssl.mzstatic.com/image/thumb/AMFgiomeYDJUyivhEHpnGQ/1000x563.webp",
-      "t_name":"DayDream"}
-      ],
-      "b_image":[  {"b_img":"https://is1-ssl.mzstatic.com/image/thumb/V6h-MebRLXF03wIqkDYbyw/1000x563.webp","b_name":"Welcome to Lumon"}
-      ],
-      "gener":"Thrill",
-      "release":"2022",
-      "rated":"A",
-      "region":"United Kingdom",
-      "o_audo":"English",
-      "audo":"English(AD,Dolby Atoms,AAC)",
-      "subtitle":"English",
-      "cc":"Closed caption refer to subtitles in available language with the  of relevent non dialogue information",
-      "ad":"Audio descriotion (AD) refer to a narration track describing what is happing on screen to context for those who are blind or have low vision",
-      "seasons":[
+        "id":4,
+        "thumbnail":"https://is4-ssl.mzstatic.com/image/thumb/S4eF69xSeArWZz2DZKaTOQ/738x416.webp",
+        "decreption":"Nominated for 14 Emmy® Awards, including Outstanding Drama Series. Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. They begin a journey to discover the truth about their jobs.",
+        "name":"severance",
+        "heroimage":"https://is4-ssl.mzstatic.com/image/thumb/S4eF69xSeArWZz2DZKaTOQ/738x416.webp",
+        "t_image":[  {"img":"https://is2-ssl.mzstatic.com/image/thumb/AMFgiomeYDJUyivhEHpnGQ/1000x563.webp",
+        "name":"DayDream"}
+        ],
+        "b_image":[  {"img":"https://is1-ssl.mzstatic.com/image/thumb/V6h-MebRLXF03wIqkDYbyw/1000x563.webp","name":"Welcome to Lumon"}
+        ],
+        "gener":"Thrill",
+        "release":"2022",
+        "rated":"A",
+        "region":"United Kingdom",
+        "o_audo":"English",
+        "audo":"English(AD,Dolby Atoms,AAC)",
+        "subtitle":"English",
+        "cc":"Closed caption refer to subtitles in available language with the  of relevent non dialogue information",
+        "ad":"Audio descriotion (AD) refer to a narration track describing what is happing on screen to context for those who are blind or have low vision",
+          "seasons":[
         {
             "elements": [
 
                 {   "id":"1",
-                "s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/Z2RayRsMnZFLyWKuf1UOQw/1679x945.webp",
-                  "name":"severance",
+                "s_thumbnail":"https://is5-ssl.mzstatic.com/image/thumb/7SeRlnCzKlgeqrg6-ixkig/738x416.webp",
+                "name":"severance",
                 "season":1,
                 "epi_no":"1",
                 "time":"49 min",
@@ -411,137 +657,1573 @@
                 "Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions."
             },
             {   "id":"2",
-            "s_thumbnail":"https://is1-ssl.mzstatic.com/image/thumb/yivkVIiUGX_rIdnoXOiiwg/1679x945.webp",
-              "name":"severance",
-                "season":1,
+            "s_thumbnail":"https://is4-ssl.mzstatic.com/image/thumb/S4eF69xSeArWZz2DZKaTOQ/738x416.webp",
+            "name":"severance",
+            "season":1,
             "epi_no":"2",
             "time":"53 min",
             "data":"19 Aug 2022",
             "title":"Explode A Man"
         },
         {   "id":"3",
-        "s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/p_mAJQJV1BrWr6ksJ4d4kg/1679x945.webp",
-          "name":"severance",
-                "season":1,
+        "s_thumbnail":"https://is4-ssl.mzstatic.com/image/thumb/Ayre02kzYy-UP8Sefqbmdg/738x416.webp",
+        "name":"severance",
+        "season":1,
         "epi_no":"3",
         "time":"55 min",
         "data":"26 Aug 2022",
         "title":"Chopped Liver"
-    }
+    },
+    {   "id":"4",
+    "s_thumbnail":"https://is5-ssl.mzstatic.com/image/thumb/ewq0-5ZSairVdRtcg43s0w/738x416.webp",
+    "name":"severance",
+    "season":1,
+    "epi_no":"3",
+    "time":"55 min",
+    "data":"26 Aug 2022",
+    "title":"Chopped Liver"
+},
+{   "id":"5",
+"s_thumbnail":"https://is1-ssl.mzstatic.com/image/thumb/UbqKgHISX2yxGI_UfPieQg/738x416.webp",
+"name":"severance",
+"season":1,
+"epi_no":"3",
+"time":"55 min",
+"data":"26 Aug 2022",
+"title":"Chopped Liver"
+},
+{   "id":"6",
+"s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/WTDZpzkQlaatpb1X4w9jZg/738x416.webp",
+"name":"severance",
+"season":1,
+"epi_no":"3",
+"time":"55 min",
+"data":"26 Aug 2022",
+"title":"Chopped Liver"
+}
 ]
+},
+{
+    "elements": [
+
+        {   "id":"1",
+        "s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/Z2RayRsMnZFLyWKuf1UOQw/1679x945.webp",
+        "name":"severance",
+        "season":2,
+        "epi_no":"1",
+        "time":"49 min",
+        "data":"19 Aug 2022",
+        "title":"The Pk",
+        "Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions."
+    },
+    {   "id":"2",
+    "s_thumbnail":"https://is1-ssl.mzstatic.com/image/thumb/yivkVIiUGX_rIdnoXOiiwg/1679x945.webp",
+    "name":"severance",
+    "season":2,
+    "epi_no":"2",
+    "time":"53 min",
+    "data":"19 Aug 2022",
+    "title":"Exp Man"
+},
+{   "id":"3",
+"s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/p_mAJQJV1BrWr6ksJ4d4kg/1679x945.webp",
+"name":"severance",
+"season":2,
+"epi_no":"3",
+"time":"55 min",
+"data":"26 Aug 2022",
+"title":"Chopped "
+}
+]
+
+
 }
         ],
-"c_and_c":[
-    {
-        "c_img":"https://is1-ssl.mzstatic.com/image/thumb/427QNmMeNw7H9uOPe9IxnQ/492x492ve.webp",
-              "name":"Sharon Horgan",
-              "s_name":"Eva Garvey"
+        "c_and_c":[
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/427QNmMeNw7H9uOPe9IxnQ/492x492ve.webp",
+                "name":"Sharon Horgan",
+                "s_name":"Eva Garvey"
 
-          },
-          {
-              "c_img":"https://is1-ssl.mzstatic.com/image/thumb/w0Ujbx9q3-7QPrIlXH8NDw/492x492ve.webp",
-              "name":"Anne-Marie Duff",
-              "s_name":"Grace Williams"
-              
-          },
-          {
-              "c_img":"https://is3-ssl.mzstatic.com/image/thumb/HvzfGe9ikTmzKuTro-lU-A/492x492bb.webp",
-              "name":"Claes Bang",
-              "s_name":"John Paul Willams"
-              
-          },
-          {
-              "c_img":"https://is2-ssl.mzstatic.com/image/thumb/sKre4-Nh0Mgr8rpH4Di39w/492x492bb.webp",
-              "name":"Eva Birthistle",
-              "s_name":"Ursula Flynn"
-              
-          },
-          {
-              "c_img":"https://is2-ssl.mzstatic.com/image/thumb/AJaUiLPYOsl2FsFtTx5cBw/492x492bb.webp",
-              "name":"Sarah Greene",
-              "s_name":"Bibi Garvey"
-              
-          },
-          {
-              "c_img":"https://is4-ssl.mzstatic.com/image/thumb/-aSQlpjweESPMa_jLJrYEw/492x492ve.webp",
-              "name":"Eva Hewson",
-              "s_name":"Becka Garvey"
-              
-          },
-          {
-              "c_img":"https://is1-ssl.mzstatic.com/image/thumb/eSPLz1PwdctvI5fEebdpLg/492x492bb.webp",
-              "name":"Brian Gleeson",
-              "s_name":"Thomas Claffin"
-              
-          },
-          {
-              "c_img":"https://is5-ssl.mzstatic.com/image/thumb/2kp5hzX4uF-ZRpOlai3R2g/492x492bb.webp",
-              "name":"Daryl McCormack",
-              "s_name":"Matthuew Claffin"
-              
-          },
-          {
-              "c_img":"https://is5-ssl.mzstatic.com/image/thumb/JQjesVs_ZFkBTNR92QGzXQ/492x492bb.webp",
-              "name":"Assaad Bouab",
-              "s_name":"Gabrial"
-              
-          },
-          {
-              "c_img":"https://is1-ssl.mzstatic.com/image/thumb/427QNmMeNw7H9uOPe9IxnQ/492x492ve.webp",
-              "name":"Sharon Horgan",
-              "s_name":"Executive Producer"
-              
-          },
-          {
-              "c_img":"https://is5-ssl.mzstatic.com/image/thumb/EzFCs-lIfy20uWV3h-pzbA/492x492bb.webp",
-              "name":"Dave Finkel",
-              "s_name":"Executive Producer"
-              
-          },
-          {
-              "c_img":"https://is2-ssl.mzstatic.com/image/thumb/NC6Qaaf7ZNPGzKTzdVXB_g/492x492bb.webp",
-              "name":"Brett Baer",
-              "s_name":"Executive Producer"
-              
-          },
-          {
-              "c_img":"https://is4-ssl.mzstatic.com/image/thumb/pkg4TZTWG2nW8kVoKBVNmQ/492x492ve.webp",
-              "name":"Faye Dorm",
-              "s_name":"Executive Producer"
-              
-          },
-          {
-              "c_img":"https://is2-ssl.mzstatic.com/image/thumb/__MyzGyHKdFXRYVw_aBnWQ/492x492ve.webp",
-              "name":"Clelia Mountford",
-              "s_name":"Executive Producer"
-              
-          },
-          {
-              "c_img":"https://is4-ssl.mzstatic.com/image/thumb/pkg4TZTWG2nW8kVoKBVNmQ/492x492ve.webp",
-              "name":"Dearbhla Walsh",
-              "s_name":"Executive Producer"
-              
-          },
-          {
-              "c_img":"https://is5-ssl.mzstatic.com/image/thumb/AxVAIVNNs5Iz_UQPpMWpzg/492x492bb.webp",
-              "name":"Bert Hamelinck",
-              "s_name":"Executive Producer"
-              
-          },
-          {
-              "c_img":"https://is4-ssl.mzstatic.com/image/thumb/pkg4TZTWG2nW8kVoKBVNmQ/492x492ve.webp",
-              "name":"Michael Sagol",
-              "s_name":"Executive Producer"
-              
-          },
-          {
-              "c_img":"https://is2-ssl.mzstatic.com/image/thumb/0i0O4uW4IJruhpOZ00gpXw/492x492ve.webp",
-              "name":"Malin-Sarah Gozin",
-              "s_name":"Executive Producer"
-              
-          }
-      ]
-      
-  }
+            },
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/w0Ujbx9q3-7QPrIlXH8NDw/492x492ve.webp",
+                "name":"Anne-Marie Duff",
+                "s_name":"Grace Williams"
+                
+            },
+            {
+                "c_img":"https://is3-ssl.mzstatic.com/image/thumb/HvzfGe9ikTmzKuTro-lU-A/492x492bb.webp",
+                "name":"Claes Bang",
+                "s_name":"John Paul Willams"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/sKre4-Nh0Mgr8rpH4Di39w/492x492bb.webp",
+                "name":"Eva Birthistle",
+                "s_name":"Ursula Flynn"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/AJaUiLPYOsl2FsFtTx5cBw/492x492bb.webp",
+                "name":"Sarah Greene",
+                "s_name":"Bibi Garvey"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/-aSQlpjweESPMa_jLJrYEw/492x492ve.webp",
+                "name":"Eva Hewson",
+                "s_name":"Becka Garvey"
+                
+            },
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/eSPLz1PwdctvI5fEebdpLg/492x492bb.webp",
+                "name":"Brian Gleeson",
+                "s_name":"Thomas Claffin"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/2kp5hzX4uF-ZRpOlai3R2g/492x492bb.webp",
+                "name":"Daryl McCormack",
+                "s_name":"Matthuew Claffin"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/JQjesVs_ZFkBTNR92QGzXQ/492x492bb.webp",
+                "name":"Assaad Bouab",
+                "s_name":"Gabrial"
+                
+            },
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/427QNmMeNw7H9uOPe9IxnQ/492x492ve.webp",
+                "name":"Sharon Horgan",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/EzFCs-lIfy20uWV3h-pzbA/492x492bb.webp",
+                "name":"Dave Finkel",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/NC6Qaaf7ZNPGzKTzdVXB_g/492x492bb.webp",
+                "name":"Brett Baer",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/pkg4TZTWG2nW8kVoKBVNmQ/492x492ve.webp",
+                "name":"Faye Dorm",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/__MyzGyHKdFXRYVw_aBnWQ/492x492ve.webp",
+                "name":"Clelia Mountford",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/pkg4TZTWG2nW8kVoKBVNmQ/492x492ve.webp",
+                "name":"Dearbhla Walsh",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/AxVAIVNNs5Iz_UQPpMWpzg/492x492bb.webp",
+                "name":"Bert Hamelinck",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/pkg4TZTWG2nW8kVoKBVNmQ/492x492ve.webp",
+                "name":"Michael Sagol",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/0i0O4uW4IJruhpOZ00gpXw/492x492ve.webp",
+                "name":"Malin-Sarah Gozin",
+                "s_name":"Executive Producer"
+                
+            }
+        ]
+        
+    },
+    {
+        "id":5,
+        "thumbnail":"https://is4-ssl.mzstatic.com/image/thumb/Ayre02kzYy-UP8Sefqbmdg/738x416.webp",
+        "decreption":"Nominated for 14 Emmy® Awards, including Outstanding Drama Series. Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. They begin a journey to discover the truth about their jobs.",
+        "name":"severance",
+        "heroimage":"https://is4-ssl.mzstatic.com/image/thumb/Ayre02kzYy-UP8Sefqbmdg/738x416.webp",
+        "t_image":[  {"img":"https://is2-ssl.mzstatic.com/image/thumb/AMFgiomeYDJUyivhEHpnGQ/1000x563.webp",
+        "name":"DayDream"}
+        ],
+        "b_image":[  {"img":"https://is1-ssl.mzstatic.com/image/thumb/V6h-MebRLXF03wIqkDYbyw/1000x563.webp","name":"Welcome to Lumon"}
+        ],
+        "gener":"Thrill",
+        "release":"2022",
+        "rated":"A",
+        "region":"United Kingdom",
+        "o_audo":"English",
+        "audo":"English(AD,Dolby Atoms,AAC)",
+        "subtitle":"English",
+        "cc":"Closed caption refer to subtitles in available language with the  of relevent non dialogue information",
+        "ad":"Audio descriotion (AD) refer to a narration track describing what is happing on screen to context for those who are blind or have low vision",
+          "seasons":[
+        {
+            "elements": [
+
+                {   "id":"1",
+                "s_thumbnail":"https://is5-ssl.mzstatic.com/image/thumb/7SeRlnCzKlgeqrg6-ixkig/738x416.webp",
+                "name":"severance",
+                "season":1,
+                "epi_no":"1",
+                "time":"49 min",
+                "data":"19 Aug 2022",
+                "title":"The Prick",
+                "Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions."
+            },
+            {   "id":"2",
+            "s_thumbnail":"https://is4-ssl.mzstatic.com/image/thumb/S4eF69xSeArWZz2DZKaTOQ/738x416.webp",
+            "name":"severance",
+            "season":1,
+            "epi_no":"2",
+            "time":"53 min",
+            "data":"19 Aug 2022",
+            "title":"Explode A Man"
+        },
+        {   "id":"3",
+        "s_thumbnail":"https://is4-ssl.mzstatic.com/image/thumb/Ayre02kzYy-UP8Sefqbmdg/738x416.webp",
+        "name":"severance",
+        "season":1,
+        "epi_no":"3",
+        "time":"55 min",
+        "data":"26 Aug 2022",
+        "title":"Chopped Liver"
+    },
+    {   "id":"4",
+    "s_thumbnail":"https://is5-ssl.mzstatic.com/image/thumb/ewq0-5ZSairVdRtcg43s0w/738x416.webp",
+    "name":"severance",
+    "season":1,
+    "epi_no":"3",
+    "time":"55 min",
+    "data":"26 Aug 2022",
+    "title":"Chopped Liver"
+},
+{   "id":"5",
+"s_thumbnail":"https://is1-ssl.mzstatic.com/image/thumb/UbqKgHISX2yxGI_UfPieQg/738x416.webp",
+"name":"severance",
+"season":1,
+"epi_no":"3",
+"time":"55 min",
+"data":"26 Aug 2022",
+"title":"Chopped Liver"
+},
+{   "id":"6",
+"s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/WTDZpzkQlaatpb1X4w9jZg/738x416.webp",
+"name":"severance",
+"season":1,
+"epi_no":"3",
+"time":"55 min",
+"data":"26 Aug 2022",
+"title":"Chopped Liver"
+}
+]
+},
+{
+    "elements": [
+
+        {   "id":"1",
+        "s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/Z2RayRsMnZFLyWKuf1UOQw/1679x945.webp",
+        "name":"severance",
+        "season":2,
+        "epi_no":"1",
+        "time":"49 min",
+        "data":"19 Aug 2022",
+        "title":"The Pk",
+        "Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions."
+    },
+    {   "id":"2",
+    "s_thumbnail":"https://is1-ssl.mzstatic.com/image/thumb/yivkVIiUGX_rIdnoXOiiwg/1679x945.webp",
+    "name":"severance",
+    "season":2,
+    "epi_no":"2",
+    "time":"53 min",
+    "data":"19 Aug 2022",
+    "title":"Exp Man"
+},
+{   "id":"3",
+"s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/p_mAJQJV1BrWr6ksJ4d4kg/1679x945.webp",
+"name":"severance",
+"season":2,
+"epi_no":"3",
+"time":"55 min",
+"data":"26 Aug 2022",
+"title":"Chopped "
+}
+]
+
+
+}
+        ],
+        "c_and_c":[
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/427QNmMeNw7H9uOPe9IxnQ/492x492ve.webp",
+                "name":"Sharon Horgan",
+                "s_name":"Eva Garvey"
+
+            },
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/w0Ujbx9q3-7QPrIlXH8NDw/492x492ve.webp",
+                "name":"Anne-Marie Duff",
+                "s_name":"Grace Williams"
+                
+            },
+            {
+                "c_img":"https://is3-ssl.mzstatic.com/image/thumb/HvzfGe9ikTmzKuTro-lU-A/492x492bb.webp",
+                "name":"Claes Bang",
+                "s_name":"John Paul Willams"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/sKre4-Nh0Mgr8rpH4Di39w/492x492bb.webp",
+                "name":"Eva Birthistle",
+                "s_name":"Ursula Flynn"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/AJaUiLPYOsl2FsFtTx5cBw/492x492bb.webp",
+                "name":"Sarah Greene",
+                "s_name":"Bibi Garvey"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/-aSQlpjweESPMa_jLJrYEw/492x492ve.webp",
+                "name":"Eva Hewson",
+                "s_name":"Becka Garvey"
+                
+            },
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/eSPLz1PwdctvI5fEebdpLg/492x492bb.webp",
+                "name":"Brian Gleeson",
+                "s_name":"Thomas Claffin"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/2kp5hzX4uF-ZRpOlai3R2g/492x492bb.webp",
+                "name":"Daryl McCormack",
+                "s_name":"Matthuew Claffin"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/JQjesVs_ZFkBTNR92QGzXQ/492x492bb.webp",
+                "name":"Assaad Bouab",
+                "s_name":"Gabrial"
+                
+            },
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/427QNmMeNw7H9uOPe9IxnQ/492x492ve.webp",
+                "name":"Sharon Horgan",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/EzFCs-lIfy20uWV3h-pzbA/492x492bb.webp",
+                "name":"Dave Finkel",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/NC6Qaaf7ZNPGzKTzdVXB_g/492x492bb.webp",
+                "name":"Brett Baer",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/pkg4TZTWG2nW8kVoKBVNmQ/492x492ve.webp",
+                "name":"Faye Dorm",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/__MyzGyHKdFXRYVw_aBnWQ/492x492ve.webp",
+                "name":"Clelia Mountford",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/pkg4TZTWG2nW8kVoKBVNmQ/492x492ve.webp",
+                "name":"Dearbhla Walsh",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/AxVAIVNNs5Iz_UQPpMWpzg/492x492bb.webp",
+                "name":"Bert Hamelinck",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/pkg4TZTWG2nW8kVoKBVNmQ/492x492ve.webp",
+                "name":"Michael Sagol",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/0i0O4uW4IJruhpOZ00gpXw/492x492ve.webp",
+                "name":"Malin-Sarah Gozin",
+                "s_name":"Executive Producer"
+                
+            }
+        ]
+        
+    },
+    {
+        "id":6,
+        "thumbnail":"https://is5-ssl.mzstatic.com/image/thumb/ewq0-5ZSairVdRtcg43s0w/738x416.webp",
+        "decreption":"Nominated for 14 Emmy® Awards, including Outstanding Drama Series. Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. They begin a journey to discover the truth about their jobs.",
+        "name":"severance",
+        "heroimage":"https://is5-ssl.mzstatic.com/image/thumb/ewq0-5ZSairVdRtcg43s0w/738x416.webp",
+        "t_image":[  {"img":"https://is2-ssl.mzstatic.com/image/thumb/AMFgiomeYDJUyivhEHpnGQ/1000x563.webp",
+        "name":"DayDream"}
+        ],
+        "b_image":[  {"img":"https://is1-ssl.mzstatic.com/image/thumb/V6h-MebRLXF03wIqkDYbyw/1000x563.webp","name":"Welcome to Lumon"}
+        ],
+        "gener":"Thrill",
+        "release":"2022",
+        "rated":"A",
+        "region":"United Kingdom",
+        "o_audo":"English",
+        "audo":"English(AD,Dolby Atoms,AAC)",
+        "subtitle":"English",
+        "cc":"Closed caption refer to subtitles in available language with the  of relevent non dialogue information",
+        "ad":"Audio descriotion (AD) refer to a narration track describing what is happing on screen to context for those who are blind or have low vision",
+          "seasons":[
+        {
+            "elements": [
+
+                {   "id":"1",
+                "s_thumbnail":"https://is5-ssl.mzstatic.com/image/thumb/7SeRlnCzKlgeqrg6-ixkig/738x416.webp",
+                "name":"severance",
+                "season":1,
+                "epi_no":"1",
+                "time":"49 min",
+                "data":"19 Aug 2022",
+                "title":"The Prick",
+                "Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions."
+            },
+            {   "id":"2",
+            "s_thumbnail":"https://is4-ssl.mzstatic.com/image/thumb/S4eF69xSeArWZz2DZKaTOQ/738x416.webp",
+            "name":"severance",
+            "season":1,
+            "epi_no":"2",
+            "time":"53 min",
+            "data":"19 Aug 2022",
+            "title":"Explode A Man"
+        },
+        {   "id":"3",
+        "s_thumbnail":"https://is4-ssl.mzstatic.com/image/thumb/Ayre02kzYy-UP8Sefqbmdg/738x416.webp",
+        "name":"severance",
+        "season":1,
+        "epi_no":"3",
+        "time":"55 min",
+        "data":"26 Aug 2022",
+        "title":"Chopped Liver"
+    },
+    {   "id":"4",
+    "s_thumbnail":"https://is5-ssl.mzstatic.com/image/thumb/ewq0-5ZSairVdRtcg43s0w/738x416.webp",
+    "name":"severance",
+    "season":1,
+    "epi_no":"3",
+    "time":"55 min",
+    "data":"26 Aug 2022",
+    "title":"Chopped Liver"
+},
+{   "id":"5",
+"s_thumbnail":"https://is1-ssl.mzstatic.com/image/thumb/UbqKgHISX2yxGI_UfPieQg/738x416.webp",
+"name":"severance",
+"season":1,
+"epi_no":"3",
+"time":"55 min",
+"data":"26 Aug 2022",
+"title":"Chopped Liver"
+},
+{   "id":"6",
+"s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/WTDZpzkQlaatpb1X4w9jZg/738x416.webp",
+"name":"severance",
+"season":1,
+"epi_no":"3",
+"time":"55 min",
+"data":"26 Aug 2022",
+"title":"Chopped Liver"
+}
+]
+},
+{
+    "elements": [
+
+        {   "id":"1",
+        "s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/Z2RayRsMnZFLyWKuf1UOQw/1679x945.webp",
+        "name":"severance",
+        "season":2,
+        "epi_no":"1",
+        "time":"49 min",
+        "data":"19 Aug 2022",
+        "title":"The Pk",
+        "Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions."
+    },
+    {   "id":"2",
+    "s_thumbnail":"https://is1-ssl.mzstatic.com/image/thumb/yivkVIiUGX_rIdnoXOiiwg/1679x945.webp",
+    "name":"severance",
+    "season":2,
+    "epi_no":"2",
+    "time":"53 min",
+    "data":"19 Aug 2022",
+    "title":"Exp Man"
+},
+{   "id":"3",
+"s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/p_mAJQJV1BrWr6ksJ4d4kg/1679x945.webp",
+"name":"severance",
+"season":2,
+"epi_no":"3",
+"time":"55 min",
+"data":"26 Aug 2022",
+"title":"Chopped "
+}
+]
+
+
+}
+        ],
+        "c_and_c":[
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/427QNmMeNw7H9uOPe9IxnQ/492x492ve.webp",
+                "name":"Sharon Horgan",
+                "s_name":"Eva Garvey"
+
+            },
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/w0Ujbx9q3-7QPrIlXH8NDw/492x492ve.webp",
+                "name":"Anne-Marie Duff",
+                "s_name":"Grace Williams"
+                
+            },
+            {
+                "c_img":"https://is3-ssl.mzstatic.com/image/thumb/HvzfGe9ikTmzKuTro-lU-A/492x492bb.webp",
+                "name":"Claes Bang",
+                "s_name":"John Paul Willams"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/sKre4-Nh0Mgr8rpH4Di39w/492x492bb.webp",
+                "name":"Eva Birthistle",
+                "s_name":"Ursula Flynn"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/AJaUiLPYOsl2FsFtTx5cBw/492x492bb.webp",
+                "name":"Sarah Greene",
+                "s_name":"Bibi Garvey"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/-aSQlpjweESPMa_jLJrYEw/492x492ve.webp",
+                "name":"Eva Hewson",
+                "s_name":"Becka Garvey"
+                
+            },
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/eSPLz1PwdctvI5fEebdpLg/492x492bb.webp",
+                "name":"Brian Gleeson",
+                "s_name":"Thomas Claffin"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/2kp5hzX4uF-ZRpOlai3R2g/492x492bb.webp",
+                "name":"Daryl McCormack",
+                "s_name":"Matthuew Claffin"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/JQjesVs_ZFkBTNR92QGzXQ/492x492bb.webp",
+                "name":"Assaad Bouab",
+                "s_name":"Gabrial"
+                
+            },
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/427QNmMeNw7H9uOPe9IxnQ/492x492ve.webp",
+                "name":"Sharon Horgan",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/EzFCs-lIfy20uWV3h-pzbA/492x492bb.webp",
+                "name":"Dave Finkel",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/NC6Qaaf7ZNPGzKTzdVXB_g/492x492bb.webp",
+                "name":"Brett Baer",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/pkg4TZTWG2nW8kVoKBVNmQ/492x492ve.webp",
+                "name":"Faye Dorm",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/__MyzGyHKdFXRYVw_aBnWQ/492x492ve.webp",
+                "name":"Clelia Mountford",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/pkg4TZTWG2nW8kVoKBVNmQ/492x492ve.webp",
+                "name":"Dearbhla Walsh",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/AxVAIVNNs5Iz_UQPpMWpzg/492x492bb.webp",
+                "name":"Bert Hamelinck",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/pkg4TZTWG2nW8kVoKBVNmQ/492x492ve.webp",
+                "name":"Michael Sagol",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/0i0O4uW4IJruhpOZ00gpXw/492x492ve.webp",
+                "name":"Malin-Sarah Gozin",
+                "s_name":"Executive Producer"
+                
+            }
+        ]
+        
+    },
+    {
+        "id":7,
+        "thumbnail":"https://is1-ssl.mzstatic.com/image/thumb/UbqKgHISX2yxGI_UfPieQg/738x416.webp",
+        "decreption":"Nominated for 14 Emmy® Awards, including Outstanding Drama Series. Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. They begin a journey to discover the truth about their jobs.",
+        "name":"severance",
+        "heroimage":"https://is1-ssl.mzstatic.com/image/thumb/UbqKgHISX2yxGI_UfPieQg/738x416.webp",
+        "t_image":[  {"img":"https://is2-ssl.mzstatic.com/image/thumb/AMFgiomeYDJUyivhEHpnGQ/1000x563.webp",
+        "name":"DayDream"}
+        ],
+        "b_image":[  {"img":"https://is1-ssl.mzstatic.com/image/thumb/V6h-MebRLXF03wIqkDYbyw/1000x563.webp","name":"Welcome to Lumon"}
+        ],
+        "gener":"Thrill",
+        "release":"2022",
+        "rated":"A",
+        "region":"United Kingdom",
+        "o_audo":"English",
+        "audo":"English(AD,Dolby Atoms,AAC)",
+        "subtitle":"English",
+        "cc":"Closed caption refer to subtitles in available language with the  of relevent non dialogue information",
+        "ad":"Audio descriotion (AD) refer to a narration track describing what is happing on screen to context for those who are blind or have low vision",
+          "seasons":[
+        {
+            "elements": [
+
+                {   "id":"1",
+                "s_thumbnail":"https://is5-ssl.mzstatic.com/image/thumb/7SeRlnCzKlgeqrg6-ixkig/738x416.webp",
+                "name":"severance",
+                "season":1,
+                "epi_no":"1",
+                "time":"49 min",
+                "data":"19 Aug 2022",
+                "title":"The Prick",
+                "Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions."
+            },
+            {   "id":"2",
+            "s_thumbnail":"https://is4-ssl.mzstatic.com/image/thumb/S4eF69xSeArWZz2DZKaTOQ/738x416.webp",
+            "name":"severance",
+            "season":1,
+            "epi_no":"2",
+            "time":"53 min",
+            "data":"19 Aug 2022",
+            "title":"Explode A Man"
+        },
+        {   "id":"3",
+        "s_thumbnail":"https://is4-ssl.mzstatic.com/image/thumb/Ayre02kzYy-UP8Sefqbmdg/738x416.webp",
+        "name":"severance",
+        "season":1,
+        "epi_no":"3",
+        "time":"55 min",
+        "data":"26 Aug 2022",
+        "title":"Chopped Liver"
+    },
+    {   "id":"4",
+    "s_thumbnail":"https://is5-ssl.mzstatic.com/image/thumb/ewq0-5ZSairVdRtcg43s0w/738x416.webp",
+    "name":"severance",
+    "season":1,
+    "epi_no":"3",
+    "time":"55 min",
+    "data":"26 Aug 2022",
+    "title":"Chopped Liver"
+},
+{   "id":"5",
+"s_thumbnail":"https://is1-ssl.mzstatic.com/image/thumb/UbqKgHISX2yxGI_UfPieQg/738x416.webp",
+"name":"severance",
+"season":1,
+"epi_no":"3",
+"time":"55 min",
+"data":"26 Aug 2022",
+"title":"Chopped Liver"
+},
+{   "id":"6",
+"s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/WTDZpzkQlaatpb1X4w9jZg/738x416.webp",
+"name":"severance",
+"season":1,
+"epi_no":"3",
+"time":"55 min",
+"data":"26 Aug 2022",
+"title":"Chopped Liver"
+}
+]
+},
+{
+    "elements": [
+
+        {   "id":"1",
+        "s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/Z2RayRsMnZFLyWKuf1UOQw/1679x945.webp",
+        "name":"severance",
+        "season":2,
+        "epi_no":"1",
+        "time":"49 min",
+        "data":"19 Aug 2022",
+        "title":"The Pk",
+        "Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions."
+    },
+    {   "id":"2",
+    "s_thumbnail":"https://is1-ssl.mzstatic.com/image/thumb/yivkVIiUGX_rIdnoXOiiwg/1679x945.webp",
+    "name":"severance",
+    "season":2,
+    "epi_no":"2",
+    "time":"53 min",
+    "data":"19 Aug 2022",
+    "title":"Exp Man"
+},
+{   "id":"3",
+"s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/p_mAJQJV1BrWr6ksJ4d4kg/1679x945.webp",
+"name":"severance",
+"season":2,
+"epi_no":"3",
+"time":"55 min",
+"data":"26 Aug 2022",
+"title":"Chopped "
+}
+]
+
+
+}
+        ],
+        "c_and_c":[
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/427QNmMeNw7H9uOPe9IxnQ/492x492ve.webp",
+                "name":"Sharon Horgan",
+                "s_name":"Eva Garvey"
+
+            },
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/w0Ujbx9q3-7QPrIlXH8NDw/492x492ve.webp",
+                "name":"Anne-Marie Duff",
+                "s_name":"Grace Williams"
+                
+            },
+            {
+                "c_img":"https://is3-ssl.mzstatic.com/image/thumb/HvzfGe9ikTmzKuTro-lU-A/492x492bb.webp",
+                "name":"Claes Bang",
+                "s_name":"John Paul Willams"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/sKre4-Nh0Mgr8rpH4Di39w/492x492bb.webp",
+                "name":"Eva Birthistle",
+                "s_name":"Ursula Flynn"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/AJaUiLPYOsl2FsFtTx5cBw/492x492bb.webp",
+                "name":"Sarah Greene",
+                "s_name":"Bibi Garvey"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/-aSQlpjweESPMa_jLJrYEw/492x492ve.webp",
+                "name":"Eva Hewson",
+                "s_name":"Becka Garvey"
+                
+            },
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/eSPLz1PwdctvI5fEebdpLg/492x492bb.webp",
+                "name":"Brian Gleeson",
+                "s_name":"Thomas Claffin"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/2kp5hzX4uF-ZRpOlai3R2g/492x492bb.webp",
+                "name":"Daryl McCormack",
+                "s_name":"Matthuew Claffin"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/JQjesVs_ZFkBTNR92QGzXQ/492x492bb.webp",
+                "name":"Assaad Bouab",
+                "s_name":"Gabrial"
+                
+            },
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/427QNmMeNw7H9uOPe9IxnQ/492x492ve.webp",
+                "name":"Sharon Horgan",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/EzFCs-lIfy20uWV3h-pzbA/492x492bb.webp",
+                "name":"Dave Finkel",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/NC6Qaaf7ZNPGzKTzdVXB_g/492x492bb.webp",
+                "name":"Brett Baer",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/pkg4TZTWG2nW8kVoKBVNmQ/492x492ve.webp",
+                "name":"Faye Dorm",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/__MyzGyHKdFXRYVw_aBnWQ/492x492ve.webp",
+                "name":"Clelia Mountford",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/pkg4TZTWG2nW8kVoKBVNmQ/492x492ve.webp",
+                "name":"Dearbhla Walsh",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/AxVAIVNNs5Iz_UQPpMWpzg/492x492bb.webp",
+                "name":"Bert Hamelinck",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/pkg4TZTWG2nW8kVoKBVNmQ/492x492ve.webp",
+                "name":"Michael Sagol",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/0i0O4uW4IJruhpOZ00gpXw/492x492ve.webp",
+                "name":"Malin-Sarah Gozin",
+                "s_name":"Executive Producer"
+                
+            }
+        ]
+        
+    },
+    {
+        "id":8,
+        "thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/WTDZpzkQlaatpb1X4w9jZg/738x416.webp",
+        "decreption":"Nominated for 14 Emmy® Awards, including Outstanding Drama Series. Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. They begin a journey to discover the truth about their jobs.",
+        "name":"severance",
+        "heroimage":"https://is2-ssl.mzstatic.com/image/thumb/WTDZpzkQlaatpb1X4w9jZg/738x416.webp",
+        "t_image":[  {"img":"https://is2-ssl.mzstatic.com/image/thumb/AMFgiomeYDJUyivhEHpnGQ/1000x563.webp",
+        "name":"DayDream"}
+        ],
+        "b_image":[  {"img":"https://is1-ssl.mzstatic.com/image/thumb/V6h-MebRLXF03wIqkDYbyw/1000x563.webp","name":"Welcome to Lumon"}
+        ],
+        "gener":"Thrill",
+        "release":"2022",
+        "rated":"A",
+        "region":"United Kingdom",
+        "o_audo":"English",
+        "audo":"English(AD,Dolby Atoms,AAC)",
+        "subtitle":"English",
+        "cc":"Closed caption refer to subtitles in available language with the  of relevent non dialogue information",
+        "ad":"Audio descriotion (AD) refer to a narration track describing what is happing on screen to context for those who are blind or have low vision",
+          "seasons":[
+        {
+            "elements": [
+
+                {   "id":"1",
+                "s_thumbnail":"https://is5-ssl.mzstatic.com/image/thumb/7SeRlnCzKlgeqrg6-ixkig/738x416.webp",
+                "name":"severance",
+                "season":1,
+                "epi_no":"1",
+                "time":"49 min",
+                "data":"19 Aug 2022",
+                "title":"The Prick",
+                "Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions."
+            },
+            {   "id":"2",
+            "s_thumbnail":"https://is4-ssl.mzstatic.com/image/thumb/S4eF69xSeArWZz2DZKaTOQ/738x416.webp",
+            "name":"severance",
+            "season":1,
+            "epi_no":"2",
+            "time":"53 min",
+            "data":"19 Aug 2022",
+            "title":"Explode A Man"
+        },
+        {   "id":"3",
+        "s_thumbnail":"https://is4-ssl.mzstatic.com/image/thumb/Ayre02kzYy-UP8Sefqbmdg/738x416.webp",
+        "name":"severance",
+        "season":1,
+        "epi_no":"3",
+        "time":"55 min",
+        "data":"26 Aug 2022",
+        "title":"Chopped Liver"
+    },
+    {   "id":"4",
+    "s_thumbnail":"https://is5-ssl.mzstatic.com/image/thumb/ewq0-5ZSairVdRtcg43s0w/738x416.webp",
+    "name":"severance",
+    "season":1,
+    "epi_no":"3",
+    "time":"55 min",
+    "data":"26 Aug 2022",
+    "title":"Chopped Liver"
+},
+{   "id":"5",
+"s_thumbnail":"https://is1-ssl.mzstatic.com/image/thumb/UbqKgHISX2yxGI_UfPieQg/738x416.webp",
+"name":"severance",
+"season":1,
+"epi_no":"3",
+"time":"55 min",
+"data":"26 Aug 2022",
+"title":"Chopped Liver"
+},
+{   "id":"6",
+"s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/WTDZpzkQlaatpb1X4w9jZg/738x416.webp",
+"name":"severance",
+"season":1,
+"epi_no":"3",
+"time":"55 min",
+"data":"26 Aug 2022",
+"title":"Chopped Liver"
+}
+]
+},
+{
+    "elements": [
+
+        {   "id":"1",
+        "s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/Z2RayRsMnZFLyWKuf1UOQw/1679x945.webp",
+        "name":"severance",
+        "season":2,
+        "epi_no":"1",
+        "time":"49 min",
+        "data":"19 Aug 2022",
+        "title":"The Pk",
+        "Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions."
+    },
+    {   "id":"2",
+    "s_thumbnail":"https://is1-ssl.mzstatic.com/image/thumb/yivkVIiUGX_rIdnoXOiiwg/1679x945.webp",
+    "name":"severance",
+    "season":2,
+    "epi_no":"2",
+    "time":"53 min",
+    "data":"19 Aug 2022",
+    "title":"Exp Man"
+},
+{   "id":"3",
+"s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/p_mAJQJV1BrWr6ksJ4d4kg/1679x945.webp",
+"name":"severance",
+"season":2,
+"epi_no":"3",
+"time":"55 min",
+"data":"26 Aug 2022",
+"title":"Chopped "
+}
+]
+
+
+}
+        ],
+        "c_and_c":[
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/427QNmMeNw7H9uOPe9IxnQ/492x492ve.webp",
+                "name":"Sharon Horgan",
+                "s_name":"Eva Garvey"
+
+            },
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/w0Ujbx9q3-7QPrIlXH8NDw/492x492ve.webp",
+                "name":"Anne-Marie Duff",
+                "s_name":"Grace Williams"
+                
+            },
+            {
+                "c_img":"https://is3-ssl.mzstatic.com/image/thumb/HvzfGe9ikTmzKuTro-lU-A/492x492bb.webp",
+                "name":"Claes Bang",
+                "s_name":"John Paul Willams"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/sKre4-Nh0Mgr8rpH4Di39w/492x492bb.webp",
+                "name":"Eva Birthistle",
+                "s_name":"Ursula Flynn"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/AJaUiLPYOsl2FsFtTx5cBw/492x492bb.webp",
+                "name":"Sarah Greene",
+                "s_name":"Bibi Garvey"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/-aSQlpjweESPMa_jLJrYEw/492x492ve.webp",
+                "name":"Eva Hewson",
+                "s_name":"Becka Garvey"
+                
+            },
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/eSPLz1PwdctvI5fEebdpLg/492x492bb.webp",
+                "name":"Brian Gleeson",
+                "s_name":"Thomas Claffin"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/2kp5hzX4uF-ZRpOlai3R2g/492x492bb.webp",
+                "name":"Daryl McCormack",
+                "s_name":"Matthuew Claffin"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/JQjesVs_ZFkBTNR92QGzXQ/492x492bb.webp",
+                "name":"Assaad Bouab",
+                "s_name":"Gabrial"
+                
+            },
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/427QNmMeNw7H9uOPe9IxnQ/492x492ve.webp",
+                "name":"Sharon Horgan",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/EzFCs-lIfy20uWV3h-pzbA/492x492bb.webp",
+                "name":"Dave Finkel",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/NC6Qaaf7ZNPGzKTzdVXB_g/492x492bb.webp",
+                "name":"Brett Baer",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/pkg4TZTWG2nW8kVoKBVNmQ/492x492ve.webp",
+                "name":"Faye Dorm",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/__MyzGyHKdFXRYVw_aBnWQ/492x492ve.webp",
+                "name":"Clelia Mountford",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/pkg4TZTWG2nW8kVoKBVNmQ/492x492ve.webp",
+                "name":"Dearbhla Walsh",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/AxVAIVNNs5Iz_UQPpMWpzg/492x492bb.webp",
+                "name":"Bert Hamelinck",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/pkg4TZTWG2nW8kVoKBVNmQ/492x492ve.webp",
+                "name":"Michael Sagol",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/0i0O4uW4IJruhpOZ00gpXw/492x492ve.webp",
+                "name":"Malin-Sarah Gozin",
+                "s_name":"Executive Producer"
+                
+            }
+        ]
+        
+    },
+    {
+        "id":9,
+        "thumbnail":"https://is1-ssl.mzstatic.com/image/thumb/XoJp7FzEyuPeFp3nZZMHJw/738x416.webp",
+        "decreption":"Nominated for 14 Emmy® Awards, including Outstanding Drama Series. Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. They begin a journey to discover the truth about their jobs.",
+        "name":"severance",
+        "heroimage":"https://is1-ssl.mzstatic.com/image/thumb/XoJp7FzEyuPeFp3nZZMHJw/738x416.webp",
+        "t_image":[  {"img":"https://is2-ssl.mzstatic.com/image/thumb/AMFgiomeYDJUyivhEHpnGQ/1000x563.webp",
+        "name":"DayDream"}
+        ],
+        "b_image":[  {"img":"https://is1-ssl.mzstatic.com/image/thumb/V6h-MebRLXF03wIqkDYbyw/1000x563.webp","name":"Welcome to Lumon"}
+        ],
+        "gener":"Thrill",
+        "release":"2022",
+        "rated":"A",
+        "region":"United Kingdom",
+        "o_audo":"English",
+        "audo":"English(AD,Dolby Atoms,AAC)",
+        "subtitle":"English",
+        "cc":"Closed caption refer to subtitles in available language with the  of relevent non dialogue information",
+        "ad":"Audio descriotion (AD) refer to a narration track describing what is happing on screen to context for those who are blind or have low vision",
+          "seasons":[
+        {
+            "elements": [
+
+                {   "id":"1",
+                "s_thumbnail":"https://is5-ssl.mzstatic.com/image/thumb/7SeRlnCzKlgeqrg6-ixkig/738x416.webp",
+                "name":"severance",
+                "season":1,
+                "epi_no":"1",
+                "time":"49 min",
+                "data":"19 Aug 2022",
+                "title":"The Prick",
+                "Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions."
+            },
+            {   "id":"2",
+            "s_thumbnail":"https://is4-ssl.mzstatic.com/image/thumb/S4eF69xSeArWZz2DZKaTOQ/738x416.webp",
+            "name":"severance",
+            "season":1,
+            "epi_no":"2",
+            "time":"53 min",
+            "data":"19 Aug 2022",
+            "title":"Explode A Man"
+        },
+        {   "id":"3",
+        "s_thumbnail":"https://is4-ssl.mzstatic.com/image/thumb/Ayre02kzYy-UP8Sefqbmdg/738x416.webp",
+        "name":"severance",
+        "season":1,
+        "epi_no":"3",
+        "time":"55 min",
+        "data":"26 Aug 2022",
+        "title":"Chopped Liver"
+    },
+    {   "id":"4",
+    "s_thumbnail":"https://is5-ssl.mzstatic.com/image/thumb/ewq0-5ZSairVdRtcg43s0w/738x416.webp",
+    "name":"severance",
+    "season":1,
+    "epi_no":"3",
+    "time":"55 min",
+    "data":"26 Aug 2022",
+    "title":"Chopped Liver"
+},
+{   "id":"5",
+"s_thumbnail":"https://is1-ssl.mzstatic.com/image/thumb/UbqKgHISX2yxGI_UfPieQg/738x416.webp",
+"name":"severance",
+"season":1,
+"epi_no":"3",
+"time":"55 min",
+"data":"26 Aug 2022",
+"title":"Chopped Liver"
+},
+{   "id":"6",
+"s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/WTDZpzkQlaatpb1X4w9jZg/738x416.webp",
+"name":"severance",
+"season":1,
+"epi_no":"3",
+"time":"55 min",
+"data":"26 Aug 2022",
+"title":"Chopped Liver"
+}
+]
+},
+{
+    "elements": [
+
+        {   "id":"1",
+        "s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/Z2RayRsMnZFLyWKuf1UOQw/1679x945.webp",
+        "name":"severance",
+        "season":2,
+        "epi_no":"1",
+        "time":"49 min",
+        "data":"19 Aug 2022",
+        "title":"The Pk",
+        "Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions."
+    },
+    {   "id":"2",
+    "s_thumbnail":"https://is1-ssl.mzstatic.com/image/thumb/yivkVIiUGX_rIdnoXOiiwg/1679x945.webp",
+    "name":"severance",
+    "season":2,
+    "epi_no":"2",
+    "time":"53 min",
+    "data":"19 Aug 2022",
+    "title":"Exp Man"
+},
+{   "id":"3",
+"s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/p_mAJQJV1BrWr6ksJ4d4kg/1679x945.webp",
+"name":"severance",
+"season":2,
+"epi_no":"3",
+"time":"55 min",
+"data":"26 Aug 2022",
+"title":"Chopped "
+}
+]
+
+
+}
+        ],
+        "c_and_c":[
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/427QNmMeNw7H9uOPe9IxnQ/492x492ve.webp",
+                "name":"Sharon Horgan",
+                "s_name":"Eva Garvey"
+
+            },
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/w0Ujbx9q3-7QPrIlXH8NDw/492x492ve.webp",
+                "name":"Anne-Marie Duff",
+                "s_name":"Grace Williams"
+                
+            },
+            {
+                "c_img":"https://is3-ssl.mzstatic.com/image/thumb/HvzfGe9ikTmzKuTro-lU-A/492x492bb.webp",
+                "name":"Claes Bang",
+                "s_name":"John Paul Willams"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/sKre4-Nh0Mgr8rpH4Di39w/492x492bb.webp",
+                "name":"Eva Birthistle",
+                "s_name":"Ursula Flynn"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/AJaUiLPYOsl2FsFtTx5cBw/492x492bb.webp",
+                "name":"Sarah Greene",
+                "s_name":"Bibi Garvey"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/-aSQlpjweESPMa_jLJrYEw/492x492ve.webp",
+                "name":"Eva Hewson",
+                "s_name":"Becka Garvey"
+                
+            },
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/eSPLz1PwdctvI5fEebdpLg/492x492bb.webp",
+                "name":"Brian Gleeson",
+                "s_name":"Thomas Claffin"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/2kp5hzX4uF-ZRpOlai3R2g/492x492bb.webp",
+                "name":"Daryl McCormack",
+                "s_name":"Matthuew Claffin"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/JQjesVs_ZFkBTNR92QGzXQ/492x492bb.webp",
+                "name":"Assaad Bouab",
+                "s_name":"Gabrial"
+                
+            },
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/427QNmMeNw7H9uOPe9IxnQ/492x492ve.webp",
+                "name":"Sharon Horgan",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/EzFCs-lIfy20uWV3h-pzbA/492x492bb.webp",
+                "name":"Dave Finkel",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/NC6Qaaf7ZNPGzKTzdVXB_g/492x492bb.webp",
+                "name":"Brett Baer",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/pkg4TZTWG2nW8kVoKBVNmQ/492x492ve.webp",
+                "name":"Faye Dorm",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/__MyzGyHKdFXRYVw_aBnWQ/492x492ve.webp",
+                "name":"Clelia Mountford",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/pkg4TZTWG2nW8kVoKBVNmQ/492x492ve.webp",
+                "name":"Dearbhla Walsh",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/AxVAIVNNs5Iz_UQPpMWpzg/492x492bb.webp",
+                "name":"Bert Hamelinck",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/pkg4TZTWG2nW8kVoKBVNmQ/492x492ve.webp",
+                "name":"Michael Sagol",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/0i0O4uW4IJruhpOZ00gpXw/492x492ve.webp",
+                "name":"Malin-Sarah Gozin",
+                "s_name":"Executive Producer"
+                
+            }
+        ]
+        
+    },
+    {
+        "id":10,
+        "thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/_dJgnWG8W30_qMRZYCEx-Q/738x416.webp",
+        "decreption":"Nominated for 14 Emmy® Awards, including Outstanding Drama Series. Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. They begin a journey to discover the truth about their jobs.",
+        "name":"severance",
+        "heroimage":"https://is2-ssl.mzstatic.com/image/thumb/_dJgnWG8W30_qMRZYCEx-Q/738x416.webp",
+        "t_image":[  {"img":"https://is2-ssl.mzstatic.com/image/thumb/AMFgiomeYDJUyivhEHpnGQ/1000x563.webp",
+        "name":"DayDream"}
+        ],
+        "b_image":[  {"img":"https://is1-ssl.mzstatic.com/image/thumb/V6h-MebRLXF03wIqkDYbyw/1000x563.webp","name":"Welcome to Lumon"}
+        ],
+        "gener":"Thrill",
+        "release":"2022",
+        "rated":"A",
+        "region":"United Kingdom",
+        "o_audo":"English",
+        "audo":"English(AD,Dolby Atoms,AAC)",
+        "subtitle":"English",
+        "cc":"Closed caption refer to subtitles in available language with the  of relevent non dialogue information",
+        "ad":"Audio descriotion (AD) refer to a narration track describing what is happing on screen to context for those who are blind or have low vision",
+          "seasons":[
+        {
+            "elements": [
+
+                {   "id":"1",
+                "s_thumbnail":"https://is5-ssl.mzstatic.com/image/thumb/7SeRlnCzKlgeqrg6-ixkig/738x416.webp",
+                "name":"severance",
+                "season":1,
+                "epi_no":"1",
+                "time":"49 min",
+                "data":"19 Aug 2022",
+                "title":"The Prick",
+                "Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions."
+            },
+            {   "id":"2",
+            "s_thumbnail":"https://is4-ssl.mzstatic.com/image/thumb/S4eF69xSeArWZz2DZKaTOQ/738x416.webp",
+            "name":"severance",
+            "season":1,
+            "epi_no":"2",
+            "time":"53 min",
+            "data":"19 Aug 2022",
+            "title":"Explode A Man"
+        },
+        {   "id":"3",
+        "s_thumbnail":"https://is4-ssl.mzstatic.com/image/thumb/Ayre02kzYy-UP8Sefqbmdg/738x416.webp",
+        "name":"severance",
+        "season":1,
+        "epi_no":"3",
+        "time":"55 min",
+        "data":"26 Aug 2022",
+        "title":"Chopped Liver"
+    },
+    {   "id":"4",
+    "s_thumbnail":"https://is5-ssl.mzstatic.com/image/thumb/ewq0-5ZSairVdRtcg43s0w/738x416.webp",
+    "name":"severance",
+    "season":1,
+    "epi_no":"3",
+    "time":"55 min",
+    "data":"26 Aug 2022",
+    "title":"Chopped Liver"
+},
+{   "id":"5",
+"s_thumbnail":"https://is1-ssl.mzstatic.com/image/thumb/UbqKgHISX2yxGI_UfPieQg/738x416.webp",
+"name":"severance",
+"season":1,
+"epi_no":"3",
+"time":"55 min",
+"data":"26 Aug 2022",
+"title":"Chopped Liver"
+},
+{   "id":"6",
+"s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/WTDZpzkQlaatpb1X4w9jZg/738x416.webp",
+"name":"severance",
+"season":1,
+"epi_no":"3",
+"time":"55 min",
+"data":"26 Aug 2022",
+"title":"Chopped Liver"
+}
+]
+},
+{
+    "elements": [
+
+        {   "id":"1",
+        "s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/Z2RayRsMnZFLyWKuf1UOQw/1679x945.webp",
+        "name":"severance",
+        "season":2,
+        "epi_no":"1",
+        "time":"49 min",
+        "data":"19 Aug 2022",
+        "title":"The Pk",
+        "Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions."
+    },
+    {   "id":"2",
+    "s_thumbnail":"https://is1-ssl.mzstatic.com/image/thumb/yivkVIiUGX_rIdnoXOiiwg/1679x945.webp",
+    "name":"severance",
+    "season":2,
+    "epi_no":"2",
+    "time":"53 min",
+    "data":"19 Aug 2022",
+    "title":"Exp Man"
+},
+{   "id":"3",
+"s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/p_mAJQJV1BrWr6ksJ4d4kg/1679x945.webp",
+"name":"severance",
+"season":2,
+"epi_no":"3",
+"time":"55 min",
+"data":"26 Aug 2022",
+"title":"Chopped "
+}
+]
+
+
+}
+        ],
+        "c_and_c":[
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/427QNmMeNw7H9uOPe9IxnQ/492x492ve.webp",
+                "name":"Sharon Horgan",
+                "s_name":"Eva Garvey"
+
+            },
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/w0Ujbx9q3-7QPrIlXH8NDw/492x492ve.webp",
+                "name":"Anne-Marie Duff",
+                "s_name":"Grace Williams"
+                
+            },
+            {
+                "c_img":"https://is3-ssl.mzstatic.com/image/thumb/HvzfGe9ikTmzKuTro-lU-A/492x492bb.webp",
+                "name":"Claes Bang",
+                "s_name":"John Paul Willams"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/sKre4-Nh0Mgr8rpH4Di39w/492x492bb.webp",
+                "name":"Eva Birthistle",
+                "s_name":"Ursula Flynn"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/AJaUiLPYOsl2FsFtTx5cBw/492x492bb.webp",
+                "name":"Sarah Greene",
+                "s_name":"Bibi Garvey"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/-aSQlpjweESPMa_jLJrYEw/492x492ve.webp",
+                "name":"Eva Hewson",
+                "s_name":"Becka Garvey"
+                
+            },
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/eSPLz1PwdctvI5fEebdpLg/492x492bb.webp",
+                "name":"Brian Gleeson",
+                "s_name":"Thomas Claffin"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/2kp5hzX4uF-ZRpOlai3R2g/492x492bb.webp",
+                "name":"Daryl McCormack",
+                "s_name":"Matthuew Claffin"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/JQjesVs_ZFkBTNR92QGzXQ/492x492bb.webp",
+                "name":"Assaad Bouab",
+                "s_name":"Gabrial"
+                
+            },
+            {
+                "c_img":"https://is1-ssl.mzstatic.com/image/thumb/427QNmMeNw7H9uOPe9IxnQ/492x492ve.webp",
+                "name":"Sharon Horgan",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/EzFCs-lIfy20uWV3h-pzbA/492x492bb.webp",
+                "name":"Dave Finkel",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/NC6Qaaf7ZNPGzKTzdVXB_g/492x492bb.webp",
+                "name":"Brett Baer",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/pkg4TZTWG2nW8kVoKBVNmQ/492x492ve.webp",
+                "name":"Faye Dorm",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/__MyzGyHKdFXRYVw_aBnWQ/492x492ve.webp",
+                "name":"Clelia Mountford",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/pkg4TZTWG2nW8kVoKBVNmQ/492x492ve.webp",
+                "name":"Dearbhla Walsh",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is5-ssl.mzstatic.com/image/thumb/AxVAIVNNs5Iz_UQPpMWpzg/492x492bb.webp",
+                "name":"Bert Hamelinck",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is4-ssl.mzstatic.com/image/thumb/pkg4TZTWG2nW8kVoKBVNmQ/492x492ve.webp",
+                "name":"Michael Sagol",
+                "s_name":"Executive Producer"
+                
+            },
+            {
+                "c_img":"https://is2-ssl.mzstatic.com/image/thumb/0i0O4uW4IJruhpOZ00gpXw/492x492ve.webp",
+                "name":"Malin-Sarah Gozin",
+                "s_name":"Executive Producer"
+                
+            }
+        ]
+        
+    }
 ]
 }

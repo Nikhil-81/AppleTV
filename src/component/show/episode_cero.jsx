@@ -34,6 +34,7 @@ if(data){
 }
 console.log(data)
 function hendleClick(el){
+  // console.log(el)
     hendleData(el)
 }
 
@@ -56,7 +57,7 @@ return(
 
     <Slider {...settings}>
     {data  && data.map(el=>(
-        <div className="ceroDiv">
+        <div onClick={()=>hendleClick(el)} className="ceroDiv">
        <img src={el.s_thumbnail} />
        <p>{el.title}</p>
        </div>

@@ -50,6 +50,7 @@ function hendleData(el){
             <Hero_back data={data}/>
             <hr/>
             <Drop_down data={data.seasons} hendlechange={hendlechange}/>
+            <br/>
             <Cero data={e_data} hendleData={hendleData} />
             {/* {console.log(e_data)} */}
 

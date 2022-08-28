@@ -11,10 +11,14 @@ if(data){
         var settings = {
             dots: false,
             infinite: true,
-            speed: 500,
+            // speed: 500,
             arrows:false,
             //   variableWidth:true,
         slidesToShow: data.length,
+        autoplay: true,
+        speed: 2000,
+        autoplaySpeed: 2000,
+        cssEase: "linear"
         
         
       };
@@ -23,11 +27,15 @@ if(data){
       var settings = {
         dots: false,
         infinite: true,
-        speed: 500,
+        // speed: 500,
         arrows:false,
         //   variableWidth:true,
         slidesToShow: 5,
-        slidesToScroll: 3
+        slidesToScroll: 1,
+        autoplay: true,
+        speed: 2000,
+        autoplaySpeed: 6000,
+        cssEase: "linear"
     };
 }
 

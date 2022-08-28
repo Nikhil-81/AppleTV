@@ -88,3 +88,11 @@
     margin: auto;
 
 }
+select{
+    border: none;
+    font-size: 25px !important;
+    /* text-align: start; */
+    align-items: start;
+    display: flex;
+margin-left: 7% !important ;
+}

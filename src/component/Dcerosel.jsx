@@ -19,22 +19,30 @@ const [data,setdata]=useState([])
       var settings = {
         dots: false,
         infinite: true,
-        speed: 500,
+        // speed: 500,
         arrows:false,
       //   variableWidth:true,
         slidesToShow: data.length,
-        slidesToScroll: 3
+        slidesToScroll: 3,
+        autoplay: true,
+        speed: 2000,
+        autoplaySpeed: 2000,
+        cssEase: "linear"
       };
     }
     else if (data.length>5){
       var settings = {
         dots: false,
         infinite: true,
-        speed: 500,
+        // speed: 500,
         arrows:false,
       //   variableWidth:true,
         slidesToShow: 5,
-        slidesToScroll: 3
+        slidesToScroll: 1,
+        autoplay: true,
+        speed: 2000,
+        autoplaySpeed: 7000,
+        cssEase: "linear"
       };
     }
  
