@@ -7,7 +7,9 @@ export default function Drop_down({data,hendlechange}){
     return(
         
         <div>
-            {data && data.length==1?<h1>season1</h1>:<select onChange={hendlechange} >{op}</select>}
+            {data && data.length==1?<h1 Style="    display: flex;
+    padding-left: 7%;
+    font-size: 25px;">season1</h1>:<select onChange={hendlechange} >{op}</select>}
         </div>
     )
 }

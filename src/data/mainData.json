@@ -41,6 +41,7 @@
             },
             {   "id":"2",
             "s_thumbnail":"https://is1-ssl.mzstatic.com/image/thumb/yivkVIiUGX_rIdnoXOiiwg/1679x945.webp",
+            "Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions.",
             "name":"Bad Sister",
             "season":1,
             "epi_no":"2",
@@ -50,6 +51,7 @@
         },
         {   "id":"3",
         "s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/p_mAJQJV1BrWr6ksJ4d4kg/1679x945.webp",
+        "Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions.",
         "name":"Bad Sister",
         "season":1,
         "epi_no":"3",
@@ -58,6 +60,7 @@
         "title":"Chopped Liver"
     },     {   "id":"4",
     "s_thumbnail":"https://is4-ssl.mzstatic.com/image/thumb/JJNI0-EHHFYsI4Hr2PnyTg/1478x832.webp",
+    "Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions.",
     "name":"Bad Sister",
     "season":1,
     "epi_no":"4",
@@ -221,6 +224,7 @@
             "epi_no":"2",
             "time":"53 min",
             "data":"19 Aug 2022",
+            "Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions.",
             "title":"Explode A Man"
         },
         {   "id":"3",
@@ -230,11 +234,13 @@
         "epi_no":"3",
         "time":"55 min",
         "data":"26 Aug 2022",
+        "Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions.",
         "title":"Chopped Liver"
     }
     ,
     {   "id":"4",
     "s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/pSU3X-9rEvrBw6yxOv-A_g/1478x832.webp",
+    "Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions.",
     "name":"severance",
     "season":1,
     "epi_no":"4",
@@ -244,6 +250,7 @@
 },
 {   "id":"5",
 "s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/O6uni5z7w8Q4FYixISz0tQ/1478x832.webp",
+"Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions.",
 "name":"severance",
 "season":1,
 "epi_no":"5",
@@ -253,6 +260,7 @@
 },
 {   "id":"6",
 "s_thumbnail":"https://is1-ssl.mzstatic.com/image/thumb/o8bGSURob7b5GuD8xVMAXA/1478x832.webp",
+"Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions.",
 "name":"severance",
 "season":1,
 "epi_no":"6",
@@ -262,6 +270,7 @@
 },
 {   "id":"7",
 "s_thumbnail":"https://is3-ssl.mzstatic.com/image/thumb/YuX84SwkbfvWj32F0hy3nQ/1478x832.webp",
+"Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions.",
 "name":"severance",
 "season":1,
 "epi_no":"7",
@@ -271,6 +280,7 @@
 },
 {   "id":"8",
 "s_thumbnail":"https://is5-ssl.mzstatic.com/image/thumb/h8K0uc1ivCCpN4lytyNV4g/1478x832.webp",
+"Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions.",
 "name":"severance",
 "season":1,
 "epi_no":"8",
@@ -432,6 +442,7 @@
             "name":"severance",
             "season":1,
             "epi_no":"2",
+            "Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions.",
             "time":"53 min",
             "data":"19 Aug 2022",
             "title":"Explode A Man"
@@ -442,6 +453,7 @@
         "season":1,
         "epi_no":"3",
         "time":"55 min",
+        "Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions.",
         "data":"26 Aug 2022",
         "title":"Chopped Liver"
     },
@@ -452,6 +464,7 @@
     "epi_no":"3",
     "time":"55 min",
     "data":"26 Aug 2022",
+    "Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions.",
     "title":"Chopped Liver"
 },
 {   "id":"5",
@@ -461,12 +474,14 @@
 "epi_no":"3",
 "time":"55 min",
 "data":"26 Aug 2022",
+"Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions.",
 "title":"Chopped Liver"
 },
 {   "id":"6",
 "s_thumbnail":"https://is2-ssl.mzstatic.com/image/thumb/WTDZpzkQlaatpb1X4w9jZg/738x416.webp",
 "name":"severance",
 "season":1,
+"Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions.",
 "epi_no":"3",
 "time":"55 min",
 "data":"26 Aug 2022",
@@ -494,6 +509,7 @@
     "epi_no":"2",
     "time":"53 min",
     "data":"19 Aug 2022",
+    "Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions.",
     "title":"Exp Man"
 },
 {   "id":"3",
@@ -502,6 +518,7 @@
 "season":2,
 "epi_no":"3",
 "time":"55 min",
+"Disc":"John Paul is dead. The Garvey sisters think it’s all behind them—but the insurance men have questions.",
 "data":"26 Aug 2022",
 "title":"Chopped "
 }

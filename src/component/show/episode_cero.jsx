@@ -44,7 +44,17 @@ return(
          {data  && data.map(el=>(
         <div onClick={()=>hendleClick(el)} className="Less_5_cero" Style=" width: 264px;margin-left:30px">
        <img src={el.s_thumbnail} Style="width:100%" />
-       <p>{el.title}</p>
+       <div Style={"text-align: start;"} >
+        <p>EPISODE {el.epi_no}</p>
+       <h5>{el.title}</h5>
+       <p>{el.Disc}</p>
+       <div Style={"display:flex;gap:25px"} >
+        <p>{el.time}</p>
+        <p>{el.data}</p>
+        <p>A</p>
+       </div>
+
+       </div>
        </div>
      ))}
      </div>
@@ -59,7 +69,17 @@ return(
     {data  && data.map(el=>(
         <div onClick={()=>hendleClick(el)} className="ceroDiv">
        <img src={el.s_thumbnail} />
-       <p>{el.title}</p>
+       <div Style={"text-align: start;"} >
+        <p>EPISODE {el.epi_no}</p>
+       <h5>{el.title}</h5>
+       <p>{el.Disc}</p>
+       <div Style={"display:flex;gap:25px"} >
+        <p>{el.time}</p>
+        <p>{el.data}</p>
+        <p>A</p>
+       </div>
+
+       </div>
        </div>
      ))}
    </Slider>
